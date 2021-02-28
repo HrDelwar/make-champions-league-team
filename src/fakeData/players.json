@@ -1,0 +1,161 @@
+[{
+    "id": 1,
+    "name": "Cristiano Ronaldo",
+    "nationalTeam": "Portugal",
+    "position": "Forward",
+    "currentTransferRecord": 99.2,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg",
+    "jerseyNumber": 7
+  }, {
+    "id": 2,
+    "name": "Marco Verratti",
+    "nationalTeam": "Italy",
+    "position": "Midfielder",
+    "currentTransferRecord": 76.2,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93505.jpg",
+    "jerseyNumber": 6
+  }, {
+    "id": 3,
+    "name": "Zlatan Ibrahimović",
+    "nationalTeam": "Sweden",
+    "position": "Striker",
+    "currentTransferRecord": 95.64,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Zlatan_Ibrahimovi%C4%87_June_2018.jpg",
+    "jerseyNumber": 11
+  }, {
+    "id": 4,
+    "name": "Jan Thilo Kehrer",
+    "nationalTeam": "Germany",
+    "position": "Defender",
+    "currentTransferRecord": 82.96,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3f/2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2073_LR10_by_Stepro.jpg",
+    "jerseyNumber": 4
+  }, {
+    "id": 5,
+    "name": "Alisson Ramses Becker",
+    "nationalTeam": "Brazil",
+    "position": "Goalkeeper",
+    "currentTransferRecord": 120,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_850_1625.jpg",
+    "jerseyNumber": 1
+  }, {
+    "id": 6,
+    "name": "Mohamed Salah Hamed",
+    "nationalTeam": "Egypt",
+    "position": "Forward",
+    "currentTransferRecord": 110.5,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mohamed_Salah_2018.jpg",
+    "jerseyNumber": 11
+  }, {
+    "id": 7,
+    "name": "Ricardo Izecson ",
+    "nationalTeam": "Brazil",
+    "position": "Midfielder",
+    "currentTransferRecord": 84.6,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Kaka_portrait%2C_February_2009.jpg",
+    "jerseyNumber": 17
+  }, {
+    "id": 8,
+    "name": "Marcos Aoás Corrêa",
+    "nationalTeam": "Brazil",
+    "position": "Defender",
+    "currentTransferRecord": 67,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Brasil_conquista_primeiro_ouro_ol%C3%ADmpico_nos_penaltis_1039278-20082016-_mg_4916_%28cropped%29.jpg",
+    "jerseyNumber": 5
+  }, {
+    "id": 9,
+    "name": "Neymar da Silva Santos Júnior",
+    "nationalTeam": "Brazil",
+    "position": "Forward",
+    "currentTransferRecord": 123.7,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bra-Cos_%281%29.jpg",
+    "jerseyNumber": 10
+  }, {
+    "id": 10,
+    "name": "Ángel Fabián Di María",
+    "nationalTeam": "Argentina",
+    "position": "Attacking midfielder",
+    "currentTransferRecord": 87.5,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8c/NIG-ARG_%285%29.jpg",
+    "jerseyNumber": 11
+  }, {
+    "id": 11,
+    "name": "Ronaldo de Assis Moreira",
+    "nationalTeam": "Brazil",
+    "position": "Attacking midfielder",
+    "currentTransferRecord": 107.5,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ronaldinho_in_2019.jpg",
+    "jerseyNumber": 11
+  }, {
+    "id": 12,
+    "name": "Lionel Andrés Messi",
+    "nationalTeam": "Argentina",
+    "position": "Forward",
+    "currentTransferRecord": 130.5,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Lionel_Messi_20180626_%28cropped%29.jpg",
+    "jerseyNumber": 10
+  }, {
+    "id": 13,
+    "name": "Philippe Coutinho Correia",
+    "nationalTeam": "Brazil",
+    "position": "Attacking midfielder",
+    "currentTransferRecord": 115.7,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/6/66/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Philippe_Coutinho_850_1692.jpg",
+    "jerseyNumber": 11
+  }, {
+    "id": 14,
+    "name": "Adrien Rabiot-Provost",
+    "nationalTeam": "France",
+    "position": "Central midfielder",
+    "currentTransferRecord": 92.99,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/1/11/Rus-Fra_2018_%283%29_%28cropped%29.jpg",
+    "jerseyNumber": 25
+  }, {
+    "id": 15,
+    "name": "Rodrigo Bentancur Colmán",
+    "nationalTeam": "Uruguay",
+    "position": "Midfielder",
+    "currentTransferRecord": 103.8,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/20171114_AUT_URU_4518_-_Rodrigo_Bentancur_%28cropped%29_2.jpg",
+    "jerseyNumber": 30
+  }, {
+    "id": 16,
+    "name": "Paulo Bruno Exequiel Dybala",
+    "nationalTeam": "Argentina",
+    "position": "Attacking midfielder",
+    "currentTransferRecord": 116.5,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/5/59/2017_FRIENDLY_MATCH_RUSSIA_v_ARGENTINA_-_Paulo_Dybala_01_%28cropped%29.jpg",
+    "jerseyNumber": 10
+  }, {
+    "id": 17,
+    "name": "Carlo Pinsoglio",
+    "nationalTeam": "Italy",
+    "position": "Goalkeeper",
+    "currentTransferRecord": 79.8,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/1carlopinsoglio2015_%28cropped%29.jpg",
+    "jerseyNumber": 31
+  }, {
+    "id": 18,
+    "name": "Federico Bernardeschi",
+    "nationalTeam": "Italy",
+    "position": "Winger",
+    "currentTransferRecord": 56.9,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Federico_Bernardeschi_2_%28cropped_2%29.jpg",
+    "jerseyNumber": 33
+  }, {
+    "id": 19,
+    "name": "Gianluigi Buffon",
+    "nationalTeam": "Italy",
+    "position": "Goalkeeper",
+    "currentTransferRecord": 82.6,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/5/54/Gianluigi_Buffon_%2831784615942%29_%28cropped%29.jpg",
+    "jerseyNumber": 77
+  }, {
+    "id": 20,
+    "name": "Juan Guillermo Cuadrado Bello",
+    "nationalTeam": "Colombia",
+    "position": "Winger, full-back",
+    "currentTransferRecord": 98.6,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Juan_Cuadrado_2019_%28cropped%29.jpg",
+    "jerseyNumber": 16
+  }]

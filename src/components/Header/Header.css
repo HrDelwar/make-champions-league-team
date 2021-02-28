@@ -1,0 +1,10 @@
+.logo img {
+    height: 60px
+}
+
+.custom-nav-bg {
+    background: linear-gradient(45deg, #579cd8, #3dd1c3);
+}
+.nav-link{
+    color: rgb(0, 0, 0) !important;
+}

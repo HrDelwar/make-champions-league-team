@@ -1,0 +1,15 @@
+.team-player{
+    border: 1px solid #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius:4px;
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.team-player .img-container{
+    height:200px;
+}
+.team-player .img-container img{
+    height:200px;
+}

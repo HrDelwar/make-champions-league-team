@@ -1,0 +1,10 @@
+.img-container{
+    height:400px;
+    overflow: hidden;
+}
+.card {
+    color : #555;
+}
+.card p {
+    margin: 5px 0;
+}
