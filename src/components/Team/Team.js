@@ -22,7 +22,7 @@ const Team = (props) => {
                             <h5>Name: {name}</h5>
                             <p>Position: {position}</p>
                             <p>Jersey Number: {jerseyNumber}</p>
-                            <p>Current Transfer Due: {currentTransferRecord}</p>
+                            <p>Current Transfer Due: <FontAwesomeIcon icon={faEuroSign}/> {currentTransferRecord} (million)</p>
                             <p>National Team: {nationalTeam}</p>
                         </div>
                         <div className="img-container">
